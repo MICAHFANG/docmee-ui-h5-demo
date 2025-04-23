@@ -12,7 +12,7 @@
 
 在线体验 & 开放平台：https://open.docmee.cn/doc/ui
 
-<img height="720" src="https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/Simulator%20Screenshot%20-%20iPhone%2014%20-%202025-04-23%20at%2012.11.01.png" style="border:8px solid #000; border-radius: 64px">
+<img height="720" src="https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/docmee-ui-h5-screenshot.png" style="border:8px solid #000; border-radius: 64px">
 
 # ✨ 项目运行
 
