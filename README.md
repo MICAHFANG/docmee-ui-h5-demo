@@ -12,7 +12,9 @@
 
 在线体验 & 开放平台：https://open.docmee.cn/doc/ui
 
-<img height="720" src="https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/docmee-ui-h5-screenshot.png" style="border:8px solid #000; border-radius: 64px">
+<center>
+<img height="490" src="https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/docmee-ui-h5-screenshot.png" style="border:8px solid #000; border-radius: 64px">
+</center>
 
 # ✨ 项目运行
 
