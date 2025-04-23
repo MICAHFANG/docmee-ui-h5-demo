@@ -25,8 +25,13 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  min-width: 320px;
+  min-width: 100vw;
   min-height: 100vh;
+  width: 100vw;
+  @supports (-webkit-touch-callout: none) {
+    /* The hack for Safari */
+    min-height: -webkit-fill-available;
+  }
 }
 
 h1 {

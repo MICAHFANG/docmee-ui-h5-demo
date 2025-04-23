@@ -12,7 +12,6 @@ const initDocmeeUI = async (container: HTMLDivElement) => {
     page: "creator",
     token,
     // @ts-expect-error
-    DOMAIN: "http://localhost:8125",
     mobileMode: true,
   });
 

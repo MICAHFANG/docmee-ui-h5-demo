@@ -1,6 +1,6 @@
 .docmee-h5-app {
-  height: calc(100vh - 64px);
-  width: 100vw;
+  height: calc(100% - 64px);
+  width: 100%;
 }
 
 .navigation-bar {
